@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV [here](/files/Curriculum_Vitae.pdf). (Last updated 31st Dec 2022)
+
+<iframe src="https://hardiikpanchal.github.io/files/Curriculum_Vitae.pdf" width="800" height="800"> </iframe>
+
+
 Education
 ======
 * B.Tech. in Electrical Engineering, IIT Bombay, 2024
