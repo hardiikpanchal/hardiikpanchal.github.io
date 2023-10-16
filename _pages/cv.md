@@ -22,13 +22,13 @@ Work experience
 ======
 * Summer 2023: Hardware Intern
   * Qualcomm, Bangalore
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: 
+  * Manager: Dhiraj Jaiswal
 
 * Summer 2022: Computer Vision and AI Intern
   * Assert AI, Mumbai
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: 
+  * Guide: Harshit Gupta
 
 
 Skills
