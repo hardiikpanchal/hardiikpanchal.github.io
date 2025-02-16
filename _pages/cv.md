@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](/files/Curriculum_Vitae.pdf). (Last updated 31st Dec 2022)
+You can download my CV [here](/files/Curriculum_Vitae.pdf). (Last updated 16th Feb 2025)
 
 <iframe src="https://hardiikpanchal.github.io/files/Curriculum_Vitae.pdf" width="800" height="800"> </iframe>
 
