@@ -22,20 +22,8 @@ Work experience
 ======
 * Summer 2023: Hardware Intern
   * Qualcomm, Bangalore
-  * Duties included: 
   * Manager: Dhiraj Jaiswal
 
 * Summer 2022: Computer Vision and AI Intern
   * Assert AI, Mumbai
-  * Duties included: 
   * Guide: Harshit Gupta
-
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
